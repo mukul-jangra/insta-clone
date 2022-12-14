@@ -12,7 +12,7 @@
       <!-- Details section -->
       <div class="d-flex flex-column mx-16">
         <div class="d-flex flex-row justify-space-between align-center">
-          <h2 class="font-weight-medium">sameeer_salmani</h2>
+          <h2 class="font-weight-medium">mukul_rx</h2>
           <v-btn
             class="ma-2 px-1"
             outlined
@@ -32,7 +32,7 @@
         </div>
 
         <div class="d-flex flex-column mt-3">
-          <h4 class="font-weight-medium">Sameer Salmani</h4>
+          <h4 class="font-weight-medium">Mukul jangra</h4>
           <p>This is my bio</p>
         </div>
       </div>
